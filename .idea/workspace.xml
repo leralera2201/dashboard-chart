@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16767a45-3783-4190-8a0f-5a61fe5cb322" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Navbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ProtectedRoute.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Dashboard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Login.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/SignUp.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/actions/authActions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/reducers/authReducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/reducers/rootReducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/sagas.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/sagas/authSagas.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/validation.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/setupTests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +15,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\react-js\dashboard\.idea" />
+      </set>
+    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -49,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/src/pages" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -75,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600947919579</updated>
-      <workItem from="1600947921701" duration="23716000" />
+      <workItem from="1600947921701" duration="25225000" />
     </task>
     <servers />
   </component>
@@ -91,10 +84,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1600950542527" />
-    <state x="393" y="11" key="CommitChangelistDialog2" timestamp="1601041747428">
+    <state x="393" y="11" key="CommitChangelistDialog2" timestamp="1601042764837">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="11" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1601041747428" />
+    <state x="393" y="11" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1601042764837" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1601041662702">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
