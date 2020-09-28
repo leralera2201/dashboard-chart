@@ -8,6 +8,7 @@ import Navbar from "./components/Navbar";
 import ProtectedRoute from "./components/ProtectedRoute";
 import Dashboard from "./pages/Dashboard";
 import SignUp from "./pages/SignUp";
+import Chart from "./pages/Chart";
 
 const App: React.FC = () => {
   return (
@@ -18,6 +19,7 @@ const App: React.FC = () => {
                   <Route path={'/signin'} exact component={Login}/>
                   <Route path={'/signup'} exact component={SignUp}/>
                   <ProtectedRoute path={'/'} exact component={Dashboard}/>
+                  <ProtectedRoute path={'/chart'} exact component={Chart}/>
               </Switch>
           </div>
       </Provider>
